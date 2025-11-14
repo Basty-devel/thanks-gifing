@@ -11,7 +11,6 @@ Contact Author
 Making the digital world safer through responsible security research
 
 </div>
-do a sheet sheet over the most modern working xss codes to fullfill the requirements of the progrmm
 🚀 Modern XSS Payload Cheat Sheet for GIF Injector Pro
 <div align="center">
 https://img.shields.io/badge/XSS-Payloads-red?style=for-the-badge&logo=javascript
